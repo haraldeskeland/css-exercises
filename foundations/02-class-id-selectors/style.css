@@ -1,0 +1,19 @@
+.redbg {
+    background-color: rgb(232, 172, 182);
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#textTwo {
+    color: rgb(0, 0, 245);
+    font-size: 36px;
+}
+
+.redbg.larger {
+    font-size: 24px;
+}
+
+.text4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
